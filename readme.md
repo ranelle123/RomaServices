@@ -24,6 +24,6 @@ Gestion de versions (Git)
 - Lier un remote : `git remote add origin https://github.com/VOTRE_UTILISATEUR/VOTRE_REPO.git`
 - Pousser : `git push -u origin main`
 
-Remarques
-- Ajouter un fichier .gitignore pour ignorer les fichiers temporaires (par ex. node_modules/, .vscode/).
-- Contact : votre.email@example.com
+
+- Contact : mampouyaranelle@icloud.com
+
